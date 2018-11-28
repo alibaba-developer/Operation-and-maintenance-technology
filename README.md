@@ -11,7 +11,7 @@
 多种发布模式实现容器化交付
 容器化应用性能测试与调优
 容器化应用问题诊断、监控与运维
-钉钉搜群组：21731923（或扫描文末二维码），加入DevOps技术交流+专家答疑群（更有多项福利等着你）。
+钉钉搜群组：21731923，加入DevOps技术交流+专家答疑群（更有多项福利等着你）。
 
-![https://yqfile.alicdn.com/2b2a8906d74e157b9ac508f0c4ef52cd569fb4e4](./images/https://yqfile.alicdn.com/2b2a8906d74e157b9ac508f0c4ef52cd569fb4e4.png)
+
 
