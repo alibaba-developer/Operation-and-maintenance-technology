@@ -1,0 +1,4 @@
+# 微服务场景下的Serverless架构实践
+ThoughtWorks高级咨询师黄博文在2017CNUTCon全球容器技术大会大会上做了题为《微服务场景下的Serverless架构实践》的分享，就Serverless架构的由来Serverless的优势和架构特点，基于Serverless的持续交付流水线，Serverless架构的局限性和下一步做了深入的分析。
+
+详情链接：https://yq.aliyun.com/download/775?spm=a2c4e.11153940.blogcont614426.158.8cb7a7ecSNq7Dg
