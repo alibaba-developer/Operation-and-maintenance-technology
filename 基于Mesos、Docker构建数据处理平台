@@ -1,0 +1,4 @@
+# 基于Mesos/Docker构建数据处理平台
+演讲者在CCTC2017中国云计算技术大会上做了主题为《如何搭建区块链应用》的演讲，就为什么选择Docker/Mesos，组件容器化与部署，基于Marathon的Streaming调度，监控与运维做了深入分析。
+
+详情链接； https://yq.aliyun.com/download/326?spm=a2c4e.11153940.blogcont614426.121.8cb7a7ecjtK7MA
